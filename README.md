@@ -15,7 +15,7 @@ This repository contains tools for analyzing MHD (Magnetohydrodynamics) and part
   scipy
   skimage
   PLASMAtools
-  cmasher  ```
+  cmasher  
   
 To run, 
 
