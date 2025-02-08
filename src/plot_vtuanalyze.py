@@ -1,7 +1,8 @@
+# Using fellow graduate student Michael Grehan's BHAC data reader.
 """
 BHAC VTU Reader for 2D Data (No General Relativity)
 
-Author: Michael Patrick Grehan
+Author: Michael Patrick Grehan 
 Date: October 2024
 Email: michael.grehan@mail.utoronto.ca
 
