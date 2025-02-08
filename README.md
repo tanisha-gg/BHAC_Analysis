@@ -21,15 +21,11 @@ To run,
 
 ``` python main.py --i 100 --folder data/  ```
 
-Outputs
+## Outputs
 Plots:
-
-Combined E/B ratio and magnetic energy plots.
-
-Particle overlays on VTU data.
-
-Particle distribution histograms.
+- Combined E/B ratio and magnetic energy plots.
+- -Particle overlays on VTU data.
+- Particle distribution histograms.
 
 Statistics:
-
-CSV files with O-point and X-point statistics.
+-CSV files with O-point and X-point statistics.
