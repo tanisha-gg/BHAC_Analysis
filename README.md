@@ -1,7 +1,7 @@
 
 # MHD and Particle Data Analysis
 
-This repository contains tools for analyzing MHD (Magnetohydrodynamics) and particle data, including visualization, extremum detection, and distribution analysis. The MHD code that I use is the Black Hole Accretion Code (BHAC) (bhac.science). This analysis code is modular and organized into classes for easy reuse and extension.
+This repository contains tools for analyzing MHD (Magnetohydrodynamics) and particle data, including visualization, extremum detection, and distribution analysis. The MHD code that I use is the Black Hole Accretion Code (BHAC) (bhac.science). 
 
 ## **Requirements**
 
